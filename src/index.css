@@ -92,14 +92,14 @@ small {
   flex-direction: flex-start;
 }
 
-.card--title {
-  margin-bottom: 0.5rem;
-  font-size: 3.2rem;
-}
+@media (max-width: 600px) {
+  .card {
+    flex-direction: column;
+    padding: 2rem 2rem !important;
+  }
 
-.card--image {
-  margin: auto;
-  display: flex;
-  flex-direction: flex-start;
+  .card-content {
+    padding: 0 !important;
+  }
 }
 
