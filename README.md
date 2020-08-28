@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Implementar um web app responsivo que consuma a API do The Movie DB e permita buscar e ver detalhes de filmes de seu catálogo.
 
 ## Available Scripts
 
