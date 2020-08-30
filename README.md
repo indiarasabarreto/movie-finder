@@ -1,4 +1,6 @@
-Implementar um web app responsivo que consuma a API do The Movie DB e permita buscar e ver detalhes de filmes de seu catálogo.
+Tentativa de implementar um web app responsivo que consuma a API do The Movie DB e permita buscar e ver detalhes de filmes de seu catálogo.
+
+<-- AINDA EM DESENVOLVIMENTO -->
 
 ## Available Scripts
 
